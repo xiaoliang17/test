@@ -12,13 +12,12 @@ just for test
     
     我们现在其实就是个小小的初创团队，虽然背景稍有不同，连小小的都没有。
     
-    public class HelloWorld {
-        /**
-  * @param args
-    */
-    public static void main(String[] args) {
-        System.out.println("HelloWorld!");
+        public class HelloWorld {
+            /**
+                * @param args
+            */
+            public static void main(String[] args) {
+                System.out.println("HelloWorld!");
+            }
 
-    }
-
-}
+        }
